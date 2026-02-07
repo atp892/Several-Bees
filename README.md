@@ -127,8 +127,8 @@ As long as it works, and doesnt vary off too far from the main idea its very lik
 
 <p align="center">
 I accept donations over few platforms, below are where you can help support my projects and more.<br>
+<b>Ko-fi</b> (Preferred) - https://sevvy-wevvy.com/kofi<br>
 <b>Patreon</b> - https://sevvy-wevvy.com/patreon<br>
-<b>Ko-fi</b> - https://sevvy-wevvy.com/kofi<br>
 <b>Throne</b> - https://sevvy-wevvy.com/throne
 </p>
 </details>
