@@ -35,7 +35,7 @@
 <summary align="center"><b>✅ Easy Install ✅</b></summary>
 
 <p align="center">
-To easly install Several Bees, you can use Monke Mod Manager<br>
+To easily install Several Bees, you can use Monke Mod Manager<br>
 MMM is relatively easy to use, below are the download links for different operating systems.<br>
 <a href="https://github.com/arielthemonke/MonkeModManager/releases/latest/download/MonkeModManager.exe">Windows</a><br>
 <a href="https://github.com/arielthemonke/MonkeModManager/releases/latest/download/MonkeModManager.Linux">Linux</a>
